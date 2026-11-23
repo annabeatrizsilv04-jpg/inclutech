@@ -1,0 +1,10 @@
+Inclutech - site de acessibilidade escolar
+
+Como abrir: dê dois cliques em index.html (precisa de internet para carregar a fonte).
+A logo já está dentro do index.html. Os arquivos da pasta imagens são cópias para uso em outros lugares.
+
+Atenção: alguns recursos dependem da hospedagem do claude.ai e não funcionam com o arquivo aberto no computador:
+- leitura de texto por foto (a página mostra a dica de copiar o texto pelo celular)
+- painel da gestão com pedidos de ajuda em tempo real
+- salvar arquivo para imprimir (usa a impressão do navegador no lugar)
+Os demais recursos funcionam: passos, leitor com voz, perfil do aluno, cartões de comunicação, termômetro e Sobre nós.
